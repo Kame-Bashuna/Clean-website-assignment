@@ -1,0 +1,88 @@
+#navybar{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+
+h1{
+    font-size: xx-large;
+}
+#button{
+    
+    background-color: blue;
+    color: aliceblue;      
+    border-radius: 20px 30px;
+    width: 15%;
+    
+
+}
+#container1{
+    display: flex;
+    justify-content: space-around;
+}
+#picha3{
+    border-radius: 50%;
+}
+#label{
+    text-align: center;
+}
+#hero{
+    display: flex;
+    justify-content: space-around;
+}
+#contain{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+#bucket{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+#button1{
+    width: 70%;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 50px;
+    padding: 10px 50px;
+}
+#picha4{
+    border-radius: 50%;
+}
+#cope{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+#label2{
+    text-align: center;
+}
+#team{
+    text-align: center;
+}
+#empty{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+}
+#bigger{
+    display: flex;
+
+
+}
+#paragraph{
+    font-size: x-large;
+}
+#para{
+    font-size: x-large;
+}
+#hope{
+    font-size: x-large;
+}
+.star{
+    display: flex;
+
+}
